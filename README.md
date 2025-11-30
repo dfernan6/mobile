@@ -21,7 +21,7 @@ The goal is to strengthen mobile development skills through hands‑on practice,
 ### 👨‍💻 About Me
 I’m a **Full Stack & Mobile Developer** passionate about building applications across multiple platforms.  
 My stack includes:  
-- 🖥️ **Backend & Full Stack**: Java, Kotlin, Node.js, Python  
+- 🖥️ **Backend & Full Stack**: PHP, Kotlin, Node.js, MongoDB  
 - 📱 **Mobile**: Kotlin, React Native, C  
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React  
 
@@ -52,7 +52,7 @@ O objetivo é fortalecer as habilidades em desenvolvimento mobile através da pr
 ### 👨‍💻 Sobre Mim
 Sou um **Desenvolvedor Full Stack e Mobile** apaixonado por construir aplicações em múltiplas plataformas.  
 Meu stack inclui:  
-- 🖥️ **Backend & Full Stack**: Java, Kotlin, Node.js, Python  
+- 🖥️ **Backend & Full Stack**: PHP, Kotlin, Node.js, MongoDB 
 - 📱 **Mobile**: Kotlin, React Native, C  
 - 🌐 **Frontend**: HTML, CSS, JavaScript, React  
 
